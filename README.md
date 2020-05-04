@@ -1,4 +1,3 @@
-# Disaster-Response-Pipeline
 # Table of Contents
 1. Installation
 2. Project Motivation
