@@ -32,7 +32,7 @@ There are three folders:
 3. The web application would show three disaster message categories related visualizations and show the categories for each message user entered
 
 # Licensing, Authors, Acknowledgements
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here]( https://www.kaggle.com/airbnb/seattle/data#listings.csv). 
+The raw data is from Figure Eight and the starter code is from Udacity
 
 # Instruction
 1. Run the following commands in the project's root directory to set up your database and model.
