@@ -18,11 +18,9 @@ There are three folders:
 * disaster_categories.csv: raw data for message categories
 * disaster_messages.csv: raw data for message content
 * process_data.py: ETL pipeline for reading in raw data and output cleaned data into database
-* process_data.db: the output of the ETL pipeline, the database containing the cleaned message, categories data
 
 2. models
 * train_classifier.py: the machine learning pipeline to train and export model
-* train_classifier.pkl: the output pickle file for saving the trained model
 
 3. app
 * run.py: file for running the application
