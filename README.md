@@ -10,7 +10,7 @@
 Besides Anaconda3, the punkt, stopwords and wordnet packages under nltk need to be installed
 
 # Project Motivation
-For this project, I was building ETL and machine learning pipelines to analyze message people sent out during disasters. The outcome will be integrates with an API that classifies disaster messages.
+For this project, I was building ETL and machine learning pipelines to analyze message people sent out during disasters. The outcome will be integrated with an API that classifies disaster messages.
 
 # File Descriptions
 There are three folders:
